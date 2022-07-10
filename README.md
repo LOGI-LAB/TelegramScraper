@@ -44,4 +44,4 @@ $ `python3 add2group.py members.csv`
 
 ### Disclimer 
 
-<p> This repo for scrape(add) a member in one group to your group . so be confirm that you have a useless account , because this script gonna be ban your telegram account . so be carefull. In any issuses i can't come ! </p>
+<p> Using this tool you can easily add so many members from any group to your group. Less than 2 minutes. Super easy. But this script got ban for your account , so confirm that use useless account api id and api hash . You could be banned from Telegram. So be careful. Recommended to use this tool only on Termux. </p>
