@@ -1,5 +1,5 @@
 # TelegramScraper v1.4 ![GitHub repo size](https://img.shields.io/github/repo-size/logi-lab/TelegramScraper?label=Repo%20Size)
-Using this tool you can easily add so many members from any group to your group. Less than 2 minutes. Super easy. Time saver. But this tool is only for educational purpose. You could be banned from Telegram. So be careful. Recommanded to use this tool only on Termux.
+Using this tool you can easily add so many members from any group to your group. Less than 2 minutes. Super easy. But this script got ban for your account , so confirm that use useless account api id and api hash .  So be careful. Recommended to use this tool only on Termux.
 
 ## Telegram Group:
 <a href="https://t.me/hacker_x_x"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
@@ -44,4 +44,4 @@ $ `python3 add2group.py members.csv`
 
 ### Disclimer 
 
-<p> Using this tool you can easily add so many members from any group to your group. Less than 2 minutes. Super easy. But this script got ban for your account , so confirm that use useless account api id and api hash . You could be banned from Telegram. So be careful. Recommended to use this tool only on Termux. </p>
+<p> Using this tool you can easily add so many members from any group to your group. Less than 2 minutes. Super easy. But this script got ban for your account , so confirm that use useless account api id and api hash .  So be careful. Recommended to use this tool only on Termux. </p>
