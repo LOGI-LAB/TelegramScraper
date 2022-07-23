@@ -20,24 +20,18 @@ $ `git clone https://github.com/logi-lab/TelegramScraper`
 
 $ `cd TelegramScraper`
 
-$ `chmod +x * && python3 setup.py`
+$ `bash install.sh`
 
 ## To Genrate User Data:
 
-$ `python3 scraper.py`
+$ `python login.py`
 
-- (`members.csv` is default if you changed name use it)
-- Send Bulk SMS To Collected Data
-
-$ `python3 smsbot.py members.csv` [Optional]
 
 - Add users to your group
 
-$ `python3 adder.py `
+$ `python add.py `
 
-#### Or,
 
-$ `python3 add2group.py members.csv`
 
 - If you need more help <a href="https://t.me/hacker_x_x"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 ---
